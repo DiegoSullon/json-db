@@ -1,0 +1,25 @@
+{
+   "cursos":[
+        {
+            "id": "1",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/4d60ef81-2e58-457f-97c7-ee8847663985.jpg",
+            "nombre":"Diego",
+            "price":"$30",
+            "edad":"19"
+        },
+        {
+            "id": "2",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/4d60ef81-2e58-457f-97c7-ee8847663985.jpg",
+            "nombre":"Jorge",
+            "price":"$40",
+            "edad":"18"
+        },
+        {
+            "id": "3",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/4d60ef81-2e58-457f-97c7-ee8847663985.jpg",
+            "nombre":"Martin",
+            "price":"$10",
+            "edad":"21"
+        }
+    ]
+}
